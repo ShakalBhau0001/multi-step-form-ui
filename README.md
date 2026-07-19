@@ -13,10 +13,11 @@ The project is created as a **frontend learning exercise** to practice DOM manip
 ```bash
 multi-step-form-ui/
 │
+├── assets/           # Images / icons
 ├── index.html        # Form structure and layout
 ├── style.css         # UI styling and layout design
 ├── app.js            # Step navigation and form logic
-├── LICENCE
+├── LICENCE           # MIT LICENCE
 └── README.md         # Project documentation
 ```
 
@@ -108,6 +109,22 @@ Possible improvements for future versions:
 * Improve mobile responsiveness
 * Add smooth transition animations
 * Save form data using localStorage
+
+---
+
+## 📸 Preview
+
+### Step 1
+![Rich CLI Preview](assets/S1.png)
+
+### Step 2
+![Rich CLI Preview](assets/S2.png)
+
+### Step 3
+![Rich CLI Preview](assets/S3.png)
+
+### Step 4
+![Rich CLI Preview](assets/S4.png)
 
 ---
 
